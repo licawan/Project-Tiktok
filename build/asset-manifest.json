@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b4b97c6.css",
+    "main.js": "/static/js/main.bce76c3c.js",
+    "static/media/seagul.mp4": "/static/media/seagul.a8732db386e5469c2204.mp4",
+    "index.html": "/index.html",
+    "main.6b4b97c6.css.map": "/static/css/main.6b4b97c6.css.map",
+    "main.bce76c3c.js.map": "/static/js/main.bce76c3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b4b97c6.css",
+    "static/js/main.bce76c3c.js"
+  ]
+}

@@ -4,6 +4,6 @@ Welcome to the Online Project repository! This project is an online platform tha
 
 ## Project Link
 
-Click [here](https://your-project-link.com](https://discord.com/channels/@me/828804025225969685/1120428898472165486)https://discord.com/channels/@me/828804025225969685/1120428898472165486) to access the Online Project.
+Click [here](https://tiktok---jornada-1a74b.web.app/) to access the Online Project.
 
 Enjoy exploring it!
